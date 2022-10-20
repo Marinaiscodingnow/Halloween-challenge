@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.color pallette{
+  color:#a7420c
+  color:#ff6600
+}
+.ghost{
+text-align:center;
+  font-family: cursive;
+}
+<link href='https://fonts.googleapis.com/css?family=Are You Serious' rel='stylesheet'>
